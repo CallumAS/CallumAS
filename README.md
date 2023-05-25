@@ -3,7 +3,10 @@
   <br/>
   Art By Ken Wong <a href="http://kenart.net/">kenart.net</a><br/>
   I'm Callum, a passionate Full-Stack from the United Kingdom. Welcome to my GitHub profile!
-
+  <br/>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=CallumAS&label=Profile%20Views&color=6&icon=3&pretty=true" />
+</a>
 </p>
 
 
