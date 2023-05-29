@@ -58,6 +58,7 @@ JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&log
 - [Elegba](https://elegba.net/): A reddit content manager download videos, images and galleries create a drive for all content you enjoy.
 - [Coin Stats](https://coinstats.dev/): A customisable crypto coin ticker.
 - [Wetherspoons Roulette](https://wetherspoons.club/): A drinking game that decides who buys the drinks and what you'll be drinking.
+- [Medium Fuser](https://mediumfuser.site/): Combined News Feed for Medium, where you can bypass restrictions and enjoy all the content from your favorite Medium writers in one place.
 
 ## 💡 What I'm Learning
 
