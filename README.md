@@ -13,7 +13,7 @@
 
 ## 🧰 Tech Stack
 
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=callumAS&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=callumAS&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
     
 ### FRONTEND
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -59,7 +59,6 @@ JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&log
 - [Wetherspoons Roulette](https://wetherspoons.club/): A drinking game that decides who buys the drinks and what you'll be drinking.
 - [Medium Fuser](https://mediumfuser.site/): Combined News Feed for Medium, where you can bypass restrictions and enjoy all the content from your favorite Medium writers in one place.
 - [ENX.PW](https://enx.pw/): Simplistic URL shortener create manageable links anywhere easily.
-- 
 
 ## 💡 What I'm Learning
 
