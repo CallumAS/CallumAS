@@ -58,7 +58,8 @@ JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&log
 - [Coin Stats](https://coinstats.dev/): A customisable crypto coin ticker.
 - [Wetherspoons Roulette](https://wetherspoons.club/): A drinking game that decides who buys the drinks and what you'll be drinking.
 - [Medium Fuser](https://mediumfuser.site/): Combined News Feed for Medium, where you can bypass restrictions and enjoy all the content from your favorite Medium writers in one place.
-- [ENX.PW](https://enx.pw/): Simplistic URL shortener create manageable links anywhere easily.
+- [ENX.PW](https://enx.pw/): Simplistic URL shortener creates manageable links anywhere easily.
+- [ASCII.CFD](https://ascii.cfd/): Turn any gif into animated ASCII art [EXAMPLE](https://ascii.cfd/view/0be08e22-4ee0-4a47-b936-c9499849dc44).
 
 ## 💡 What I'm Learning
 
